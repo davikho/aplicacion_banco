@@ -40,7 +40,7 @@ A lo largo de la aplicación, se utilizan **Toasts** para proporcionar mensajes 
 
 La **AppBanco** está disponible para su descarga. Puedes obtener la aplicación directamente desde el archivo APK de la siguiente manera:
 
-1. **Descargar el archivo APK**: [Descargar APK de AppBanco](#) (https://github.com/davikho/aplicacion_banco/raw/refs/heads/main/appbank.apk)
+1. **Descargar el archivo APK**: [AppBanco.apk](https://github.com/davikho/aplicacion_banco/raw/refs/heads/main/appbank.apk)
 2. **Instalar el APK**: Tras la descarga, habilita la instalación de aplicaciones de fuentes desconocidas en tu dispositivo Android y procede a instalar la app.
 
 ## Emojis
