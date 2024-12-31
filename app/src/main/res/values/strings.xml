@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Prueba git</string>
+    <string name="hola_usuario">Hola Usuario</string>
+</resources>

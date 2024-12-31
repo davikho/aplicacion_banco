@@ -1,0 +1,6 @@
+app.example.pruebagit.test.app-core-1.6.1-0 C:\Users\david\.gradle\caches\transforms-4\4e874e21faadbaecf98e9db84e508cc1\transformed\core-1.6.1\res
+app.example.pruebagit.test.app-tracing-1.2.0-1 C:\Users\david\.gradle\caches\transforms-4\a9157cc618851bc43640e15c63825822\transformed\tracing-1.2.0\res
+app.example.pruebagit.test.app-androidTest-2 C:\Users\david\AndroidStudioProjects\AplicacionesEnClase\app\build\generated\res\resValues\androidTest\debug
+app.example.pruebagit.test.app-mergeDebugAndroidTestResources-3 C:\Users\david\AndroidStudioProjects\AplicacionesEnClase\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+app.example.pruebagit.test.app-mergeDebugAndroidTestResources-4 C:\Users\david\AndroidStudioProjects\AplicacionesEnClase\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+app.example.pruebagit.test.app-debugAndroidTest-5 C:\Users\david\AndroidStudioProjects\AplicacionesEnClase\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

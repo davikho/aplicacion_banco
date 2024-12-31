@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:layout_marginHorizontal="40dp"
+    android:padding="16dp"
+    tools:context=".appBanco.IniciarSesion">
+
+
+    <ImageView
+        android:id="@+id/logoBanco"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:src="@drawable/bank"
+        android:contentDescription="Logo del banco"
+        android:layout_marginBottom="20dp"
+        android:scaleType="centerInside" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!-- Campo oculto para el usuario -->
+        <EditText
+            android:visibility="gone"
+            android:id="@+id/usuarioInico"
+            android:hint="Nombre Usuario"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <!-- Campo para el número de cédula -->
+        <EditText
+            android:id="@+id/passwordInicio"
+            android:textAlignment="center"
+            android:hint="Ingrese su cédula"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:layout_marginBottom="10dp" />
+
+        <!-- Botón para iniciar sesión -->
+        <Button
+            android:id="@+id/btnInciarSesion"
+            android:text="Iniciar sesión"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:backgroundTint="@color/black"
+            android:textColor="@android:color/white"
+            android:layout_marginVertical="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <!-- Texto para regresar -->
+        <TextView
+            android:id="@+id/tvNoTengoCuenta"
+            android:text="No tengo cuenta. Regresar"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:padding="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+</LinearLayout>
